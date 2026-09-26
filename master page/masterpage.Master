@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterpage.master.cs" Inherits="master_page.masterpage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        header {
+            background-color: gold;
+            color: black;
+            padding: 15px 0;
+            text-align: center;
+        }
+
+        nav {
+            background-color: black;
+            overflow: hidden;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 14px 20px;
+            font-size: 27px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 4px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-size: 18px;
+        }
+
+        a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <h1>Student Portal</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="Admin.aspx">Admin</a></li>
+                <li><a href="User.aspx">User</a></li>
+            </ul>
+        </nav>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <footer>
+            <p>Student Portal</p>
+        </footer>
+    </form>
+</body>
+</html>

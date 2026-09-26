@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|d:\\asp.net\\lab11\\p13_2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:p13_2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\cookie2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:cookie2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\cookie2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:cookie2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\cookie12_2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:cookie12_2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\p13_2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:p13_2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\sessiondev.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:sessiondev.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\sessiondev.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:sessiondev.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\cookie12_2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:cookie12_2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\session1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:session1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\session1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:session1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\cookie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:cookie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\cookie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:cookie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\data.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:data.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\data.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:data.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\querystring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:querystring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\view.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:view.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|D:\\ASP.net\\lab11\\view.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44138DC3-63D9-4BB7-A49B-D58B6A1FF382}|lab11.csproj|solutionrelative:view.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p13_2.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\p13_2.aspx.cs",
+              "RelativeDocumentMoniker": "p13_2.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\p13_2.aspx.cs",
+              "RelativeToolTip": "p13_2.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T05:24:10.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sessiondev.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\sessiondev.aspx.cs",
+              "RelativeDocumentMoniker": "sessiondev.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\sessiondev.aspx.cs",
+              "RelativeToolTip": "sessiondev.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:01:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sessiondev.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\sessiondev.aspx",
+              "RelativeDocumentMoniker": "sessiondev.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\sessiondev.aspx",
+              "RelativeToolTip": "sessiondev.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T13:00:56.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "session1.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\session1.aspx.cs",
+              "RelativeDocumentMoniker": "session1.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\session1.aspx.cs",
+              "RelativeToolTip": "session1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:59:04.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "session1.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\session1.aspx",
+              "RelativeDocumentMoniker": "session1.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\session1.aspx",
+              "RelativeToolTip": "session1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T12:58:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cookie12_2.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\cookie12_2.aspx.cs",
+              "RelativeDocumentMoniker": "cookie12_2.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\cookie12_2.aspx.cs",
+              "RelativeToolTip": "cookie12_2.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:47:22.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cookie12_2.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\cookie12_2.aspx",
+              "RelativeDocumentMoniker": "cookie12_2.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\cookie12_2.aspx",
+              "RelativeToolTip": "cookie12_2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T12:46:14.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cookie2.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\cookie2.aspx.cs",
+              "RelativeDocumentMoniker": "cookie2.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\cookie2.aspx.cs",
+              "RelativeToolTip": "cookie2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:42:27.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cookie2.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\cookie2.aspx",
+              "RelativeDocumentMoniker": "cookie2.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\cookie2.aspx",
+              "RelativeToolTip": "cookie2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T12:41:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "p13_2.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\p13_2.aspx",
+              "RelativeDocumentMoniker": "p13_2.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\p13_2.aspx",
+              "RelativeToolTip": "p13_2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-16T05:23:26.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cookie.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\cookie.aspx.cs",
+              "RelativeDocumentMoniker": "cookie.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\cookie.aspx.cs",
+              "RelativeToolTip": "cookie.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:54:23.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cookie.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\cookie.aspx",
+              "RelativeDocumentMoniker": "cookie.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\cookie.aspx",
+              "RelativeToolTip": "cookie.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T06:53:11.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Data.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\Data.aspx.cs",
+              "RelativeDocumentMoniker": "Data.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\Data.aspx.cs",
+              "RelativeToolTip": "Data.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:47:50.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Data.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\Data.aspx",
+              "RelativeDocumentMoniker": "Data.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\Data.aspx",
+              "RelativeToolTip": "Data.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T06:45:22.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "querystring.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\querystring.aspx.cs",
+              "RelativeDocumentMoniker": "querystring.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\querystring.aspx.cs",
+              "RelativeToolTip": "querystring.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:43:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "querystring.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\querystring.aspx",
+              "RelativeDocumentMoniker": "querystring.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\querystring.aspx",
+              "RelativeToolTip": "querystring.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T06:42:36.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "view.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\view.aspx.cs",
+              "RelativeDocumentMoniker": "view.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab11\\view.aspx.cs",
+              "RelativeToolTip": "view.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:40:00.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "view.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab11\\view.aspx",
+              "RelativeDocumentMoniker": "view.aspx",
+              "ToolTip": "D:\\ASP.net\\lab11\\view.aspx",
+              "RelativeToolTip": "view.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T06:38:03.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\ASP.net\exclassproDu\bin\Debug\exclassproDu.exe.config
+D:\ASP.net\exclassproDu\bin\Debug\exclassproDu.exe
+D:\ASP.net\exclassproDu\bin\Debug\exclassproDu.pdb
+D:\ASP.net\exclassproDu\obj\Debug\exclassproDu.csproj.AssemblyReference.cache
+D:\ASP.net\exclassproDu\obj\Debug\exclassproDu.csproj.CoreCompileInputs.cache
+D:\ASP.net\exclassproDu\obj\Debug\exclassproDu.exe
+D:\ASP.net\exclassproDu\obj\Debug\exclassproDu.pdb
+D:\ASP.net\exclassproDu\obj\Debug\exclassproDu.exe.config

@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterpage.master.cs" Inherits="classdemo1.masterpage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Master page example</title>
+    <link type="text/css" rel="stylesheet" href="App_Themes/masterpagetheme/mycss.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header id="header">
+            <asp:Image ID="imglogo" runat="server" ImageUrl="~/image/1.png" Height="50" Width="50" />
+            <h1>DARSHAN UNIVERSITY</h1>
+        </header>
+
+        <aside id="side">
+            <h2>Important Link</h2>
+            <a href="https://wwww.darshan.ac.in/transportation-service"><p>Transportation</p></a>
+            <a href="https://darshanums.in/Login.aspx"><p>UMS Portal</p></a>
+        </aside>
+
+
+    </form>
+</body>
+</html>

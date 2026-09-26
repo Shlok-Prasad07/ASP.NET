@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net\\master page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\page3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:page3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\nestedmasterpage1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:nestedmasterpage1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\def.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:def.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|d:\\asp.net\\master page\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09DFE0E7-EDD0-4B49-9CD2-1C95280202B2}|master page.csproj|solutionrelative:user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "def.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\def.aspx",
+              "RelativeDocumentMoniker": "def.aspx",
+              "ToolTip": "D:\\ASP.net\\master page\\def.aspx",
+              "RelativeToolTip": "def.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T14:20:24.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page3.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\Page3.aspx",
+              "RelativeDocumentMoniker": "Page3.aspx",
+              "ToolTip": "D:\\ASP.net\\master page\\Page3.aspx",
+              "RelativeToolTip": "Page3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T14:05:59.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\Page2.aspx",
+              "RelativeDocumentMoniker": "Page2.aspx",
+              "ToolTip": "D:\\ASP.net\\master page\\Page2.aspx",
+              "RelativeToolTip": "Page2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T14:04:58.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\Page1.aspx",
+              "RelativeDocumentMoniker": "Page1.aspx",
+              "ToolTip": "D:\\ASP.net\\master page\\Page1.aspx",
+              "RelativeToolTip": "Page1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T14:03:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NestedMasterPage1.master",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\NestedMasterPage1.master",
+              "RelativeDocumentMoniker": "NestedMasterPage1.master",
+              "ToolTip": "D:\\ASP.net\\master page\\NestedMasterPage1.master",
+              "RelativeToolTip": "NestedMasterPage1.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T14:01:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\User.aspx",
+              "RelativeDocumentMoniker": "User.aspx",
+              "ToolTip": "D:\\ASP.net\\master page\\User.aspx",
+              "RelativeToolTip": "User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T12:40:54.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\Admin.aspx",
+              "RelativeDocumentMoniker": "Admin.aspx",
+              "ToolTip": "D:\\ASP.net\\master page\\Admin.aspx",
+              "RelativeToolTip": "Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T12:38:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "masterpage.Master",
+              "DocumentMoniker": "D:\\ASP.net\\master page\\masterpage.Master",
+              "RelativeDocumentMoniker": "masterpage.Master",
+              "ToolTip": "D:\\ASP.net\\master page\\masterpage.Master",
+              "RelativeToolTip": "masterpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-15T12:34:49.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

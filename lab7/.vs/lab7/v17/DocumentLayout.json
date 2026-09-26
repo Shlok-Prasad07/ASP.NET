@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\sportstheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:sportstheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\app_themes\\sports\\sp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:app_themes\\sports\\sp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|d:\\asp.net\\lab7\\app_themes\\calculater\\cal.skin||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:app_themes\\calculater\\cal.skin||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\languagetheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:languagetheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\app_themes\\registration\\reg.skin||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:app_themes\\registration\\reg.skin||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\calculatertheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:calculatertheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\registrationtheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:registrationtheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\languagetheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:languagetheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\app_themes\\language\\lang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:app_themes\\language\\lang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\calculatertheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:calculatertheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\registrationtheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:registrationtheme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|D:\\ASP.net\\lab7\\sportstheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2925FB40-9209-4D0F-A490-332E58A414E8}|lab7.csproj|solutionrelative:sportstheme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "calculatertheme.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\calculatertheme.aspx.cs",
+              "RelativeDocumentMoniker": "calculatertheme.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab7\\calculatertheme.aspx.cs",
+              "RelativeToolTip": "calculatertheme.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:43:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "languagetheme.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\languagetheme.aspx",
+              "RelativeDocumentMoniker": "languagetheme.aspx",
+              "ToolTip": "D:\\ASP.net\\lab7\\languagetheme.aspx",
+              "RelativeToolTip": "languagetheme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T09:44:28.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "languagetheme.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\languagetheme.aspx.cs",
+              "RelativeDocumentMoniker": "languagetheme.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab7\\languagetheme.aspx.cs",
+              "RelativeToolTip": "languagetheme.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:17:19.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lang.css",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\App_Themes\\language\\lang.css",
+              "RelativeDocumentMoniker": "App_Themes\\language\\lang.css",
+              "ToolTip": "D:\\ASP.net\\lab7\\App_Themes\\language\\lang.css",
+              "RelativeToolTip": "App_Themes\\language\\lang.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-02T09:47:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sportstheme.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\sportstheme.aspx",
+              "RelativeDocumentMoniker": "sportstheme.aspx",
+              "ToolTip": "D:\\ASP.net\\lab7\\sportstheme.aspx",
+              "RelativeToolTip": "sportstheme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T09:24:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sportstheme.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\sportstheme.aspx.cs",
+              "RelativeDocumentMoniker": "sportstheme.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab7\\sportstheme.aspx.cs",
+              "RelativeToolTip": "sportstheme.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:25:52.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sp.css",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\App_Themes\\sports\\sp.css",
+              "RelativeDocumentMoniker": "App_Themes\\sports\\sp.css",
+              "ToolTip": "D:\\ASP.net\\lab7\\App_Themes\\sports\\sp.css",
+              "RelativeToolTip": "App_Themes\\sports\\sp.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-02T09:31:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "registrationtheme.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\registrationtheme.aspx",
+              "RelativeDocumentMoniker": "registrationtheme.aspx",
+              "ToolTip": "D:\\ASP.net\\lab7\\registrationtheme.aspx",
+              "RelativeToolTip": "registrationtheme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T09:10:39.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registrationtheme.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\registrationtheme.aspx.cs",
+              "RelativeDocumentMoniker": "registrationtheme.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab7\\registrationtheme.aspx.cs",
+              "RelativeToolTip": "registrationtheme.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:11:23.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reg.skin",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\App_Themes\\registration\\reg.skin",
+              "RelativeDocumentMoniker": "App_Themes\\registration\\reg.skin",
+              "ToolTip": "D:\\ASP.net\\lab7\\App_Themes\\registration\\reg.skin",
+              "RelativeToolTip": "App_Themes\\registration\\reg.skin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002845|",
+              "WhenOpened": "2025-08-02T09:13:09.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "calculatertheme.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\calculatertheme.aspx",
+              "RelativeDocumentMoniker": "calculatertheme.aspx",
+              "ToolTip": "D:\\ASP.net\\lab7\\calculatertheme.aspx",
+              "RelativeToolTip": "calculatertheme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T08:41:39.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cal.skin",
+              "DocumentMoniker": "D:\\ASP.net\\lab7\\App_Themes\\calculater\\cal.skin",
+              "RelativeDocumentMoniker": "App_Themes\\calculater\\cal.skin",
+              "ToolTip": "D:\\ASP.net\\lab7\\App_Themes\\calculater\\cal.skin",
+              "RelativeToolTip": "App_Themes\\calculater\\cal.skin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002845|",
+              "WhenOpened": "2025-08-02T08:57:42.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

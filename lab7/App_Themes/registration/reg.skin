@@ -1,0 +1,11 @@
+﻿<asp:Label runat="Server" foreColor="Orange"/>
+
+<asp:TextBox runat="Server" foreColor="blue"/>
+
+<asp:Button runat="server" BackColor="lightblue" />
+
+<asp:Calendar runat="server" BackColor="LightYellow" BorderColor="Black"/>
+
+ <asp:LinkButton runat="server" foreColor="red" />
+
+<asp:HyperLink runat="server" foreColor="purple" />

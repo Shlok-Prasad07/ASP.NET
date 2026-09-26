@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curd_operation", "curd_operation.csproj", "{8AEC58E4-D25E-4307-98A2-646ABA06191E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AEC58E4-D25E-4307-98A2-646ABA06191E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC58E4-D25E-4307-98A2-646ABA06191E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC58E4-D25E-4307-98A2-646ABA06191E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC58E4-D25E-4307-98A2-646ABA06191E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FB757E-D0D3-43DC-8068-F80084CB4DD9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\ASP.net\ASPlab2DU\obj\Debug\ASPlab2DU.csproj.AssemblyReference.cache
+D:\ASP.net\ASPlab2DU\obj\Debug\ASPlab2DU.csproj.CoreCompileInputs.cache
+D:\ASP.net\ASPlab2DU\bin\Debug\ASPlab2DU.exe.config
+D:\ASP.net\ASPlab2DU\bin\Debug\ASPlab2DU.exe
+D:\ASP.net\ASPlab2DU\bin\Debug\ASPlab2DU.pdb
+D:\ASP.net\ASPlab2DU\obj\Debug\ASPlab2DU.exe
+D:\ASP.net\ASPlab2DU\obj\Debug\ASPlab2DU.pdb
+D:\ASP.net\ASPlab2DU\obj\Debug\ASPlab2DU.exe.config

@@ -1,0 +1,19 @@
+﻿#lbname{
+    color: blue;
+    font-size: 30px;
+}
+
+#cblsport{
+    color: red;
+    font-size: 22px;
+    font-family: Arial;
+}
+
+#btsubmit{
+    background: aliceblue;
+}
+
+#lbfinalans{
+    color:darkgreen;
+    font-size:15px;
+}

@@ -1,0 +1,5 @@
+﻿<asp:Label runat="Server" foreColor="blue"/>
+
+<asp:TextBox runat="Server" foreColor="blue"/>
+
+<asp:Button runat="server" BackColor="lightblue" />

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|d:\\asp.net\\lab4\\reg.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|solutionrelative:reg.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|D:\\ASP.net\\lab4\\reg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|solutionrelative:reg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|D:\\ASP.net\\lab4\\cal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|solutionrelative:cal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|D:\\ASP.net\\lab4\\cal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F8BCB0-C34C-4BC5-89B1-74EF22D3B09F}|lab4.csproj|solutionrelative:cal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reg.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab4\\reg.aspx.cs",
+              "RelativeDocumentMoniker": "reg.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab4\\reg.aspx.cs",
+              "RelativeToolTip": "reg.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:31:57.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reg.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab4\\reg.aspx",
+              "RelativeDocumentMoniker": "reg.aspx",
+              "ToolTip": "D:\\ASP.net\\lab4\\reg.aspx",
+              "RelativeToolTip": "reg.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-11T14:09:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cal.aspx.cs",
+              "DocumentMoniker": "D:\\ASP.net\\lab4\\cal.aspx.cs",
+              "RelativeDocumentMoniker": "cal.aspx.cs",
+              "ToolTip": "D:\\ASP.net\\lab4\\cal.aspx.cs",
+              "RelativeToolTip": "cal.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:25:20.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cal.aspx",
+              "DocumentMoniker": "D:\\ASP.net\\lab4\\cal.aspx",
+              "RelativeDocumentMoniker": "cal.aspx",
+              "ToolTip": "D:\\ASP.net\\lab4\\cal.aspx",
+              "RelativeToolTip": "cal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-11T13:10:59.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
